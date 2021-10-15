@@ -60,9 +60,8 @@ export const Button = styled.button`
 export const PokemonCard = styled.div`
   margin-top: 40px;
   display: flex;
-
-  height: 350px;
-  width: 400px;
+  height: 370px;
+  width: 450px;
   justify-content: space-evenly;
   background: rgba(90, 90, 90, 0.6);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
@@ -98,5 +97,9 @@ export const PokemonDetails = styled.div`
 
   span {
     margin-bottom: 10px;
+  }
+
+  ul {
+    margin-left: 20px;
   }
 `;

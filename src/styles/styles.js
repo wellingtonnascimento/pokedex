@@ -10,7 +10,7 @@ export const Wrapper = styled.main`
 
 export const Welcome = styled.h1`
   font-size: 4em;
-  margin-top: 80px;
+  margin-top: 30px;
 `;
 
 export const Form = styled.form`
